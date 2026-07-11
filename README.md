@@ -1,2 +1,3 @@
 # First-Repository-Demo
-this is my first gi repository
+this is my first git repository
+author-Mansoor-Ahmad
